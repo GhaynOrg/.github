@@ -6,7 +6,7 @@ Hey, We are "Ghayn" Organization
 </h1>
 <p align="center">
 	<a href="https://github.com/GhaynOrg">
-		<img src="https://komarev.com/ghpvc/?username=GhaynOrg&label=Profile%20views&color=133337&style=flat" alt="GhaynOrg" />
+		<img src="https://komarev.com/ghpvc/?username=GhaynOrg&label=Page%20views&color=133337&style=flat" alt="GhaynOrg" />
 	</a>
 	<a href="https://github.com/GhaynOrg">
 		<img src="https://img.shields.io/github/followers/GhaynOrg?label=Followers" alt="GhaynOrg" />
