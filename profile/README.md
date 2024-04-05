@@ -80,4 +80,4 @@ Hey, We are "Ghayn" Organization
 
 
 
-We value contributions from everyone and believe they play a crucial role in our project’s success. If you encounter any bugs or have ideas for new features, we’d love to hear from you. We’re open to all forms of contribution and sincerely thank you in advance for your help**
+We value contributions from everyone and believe they play a crucial role in our project’s success. If you encounter any bugs or have ideas for new features, we’d love to hear from you. We’re open to all forms of contribution and sincerely thank you in advance for your help
