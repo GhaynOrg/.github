@@ -33,7 +33,7 @@ Hey, We are "Ghayn" Organization
 	<a href="mailto:opensource@ghayn.org"><img img src="https://img.shields.io/badge/mail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Mail"/></a>
 	<a href="https://github.com/GhaynOrg"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="https://instagram.com/Ghayn0rg"><img src="https://img.shields.io/badge/instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://x/GhaynOrg"><img src="https://img.shields.io/badge/x-000000?style=plastic&logo=X&logoColor=white" alt="X"/></a>
+    <a href="https://x.com/GhaynOrg"><img src="https://img.shields.io/badge/x-000000?style=plastic&logo=X&logoColor=white" alt="X"/></a>
 
 </p>
 
